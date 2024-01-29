@@ -1,0 +1,9 @@
+c = require("component")
+event = require("event")
+os = require("os")
+rings = c.transportrings
+dialSerket = rings.addSymbolToAddress(0, Serket)
+dialRa = rings.addSymbolToAddress(0, Ra)
+dialKhepri = rings.addSymbolToAddress(0, Khepri)
+dialFelluca = rings.addSymbolToAddress(0, Felluca)
+dialAmun = rings.addSymbolToAddress(0, Amun)
